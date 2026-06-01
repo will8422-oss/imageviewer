@@ -13,3 +13,6 @@ dist/
 .DS_Store
 .vscode/
 *.swp
+
+# Local Netlify folder
+.netlify
